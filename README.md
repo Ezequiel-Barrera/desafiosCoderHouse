@@ -12,6 +12,7 @@
 - Todas las clases tiene entregables por cada tema visto. 
 - En este repositorio de encontraran todos los desafios resultos, las de 40.
 - También estaran las distintas pre-entregas del proyecto final del curso, una app eCommerce.
+- Cada siete dias un desafio nuevo.
 
 
 -------------
