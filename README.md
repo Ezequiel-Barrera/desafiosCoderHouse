@@ -2,15 +2,15 @@
 
 ![](https://res.cloudinary.com/hdsqazxtw/image/upload/v1559681445/logo_coderhouse_3_bllxal.png)
 
-> *En este repositorio se encuentran todas los desafios entregables del curso de Desarrollo Backend, en CoderHouse*
+> *En este repositorio se encuentran todos los desafios entregables del curso de Desarrollo Backend, en CoderHouse*
  <img align="" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 -------------
 
 ### Consigna:
 
-- Todas las clases tiene entregables por cada tema visto. 
-- En este repositorio de encontraran todos los desafios resultos, las de 40.
+- Todas las clases tienen desafios entregables por cada tema visto. 
+- En este repositorio se encontraran todos los desafios resultos, son más de 40.
 - También estaran las distintas pre-entregas del proyecto final del curso, una app eCommerce.
 - Cada siete dias un desafio nuevo.
 
@@ -26,7 +26,7 @@
 
 ```javascript
 const Alumno =  {
-		nombre: "Ezequiel Barrera",
+		nombre: "Ezequiel Andres Barrera",
 		camada: 20620,
 		lenguajes: "Javascript",
 		herramientas: {
